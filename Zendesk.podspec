@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author       = 'Zendesk'
-  s.platform     = :ios, '12.0'
+  s.platform     = :ios, '16.0'
   s.requires_arc = true
   s.swift_version = '5.3'
   s.cocoapods_version = '>= 1.10.0'
